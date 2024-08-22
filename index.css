@@ -1,0 +1,684 @@
+.pg-1 {
+   background: whitesmoke;
+   display: flex;
+   width: 1514px;
+   box-sizing: border-box;
+ }
+ .pg-1 .rectangle-2 {
+   background-color: red;
+   border-radius: 5px;
+   position: absolute;
+   top: 75px;
+   right: 226px;
+   width: 270px;
+   height: 44px;
+ }
+ .pg-1 .lupa {
+   background-color: red;
+   margin: 20px 0 14px 0;
+   width: 30px;
+   height: 30px;
+ }
+ .instituto-federal-de-so-paulo-sub3 {
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 1.333;
+   color: #FFFFFF;
+ }
+ .pg-1 .instituto-federal-de-so-paulo {
+   margin-bottom: 4px;
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .cmpus-itapetininga {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 30px;
+   color: #FFFFFF;
+ }
+ .pg-1 .minist-rio-da-educa-o {
+   margin: 0 9px 21px 0;
+   display: inline-block;
+   width: 234px;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .facebook-logo {
+   margin-right: 11px;
+   display: flex;
+   width: 40px;
+   height: 40px;
+   box-sizing: border-box;
+ }
+ .pg-1 .icon-color {
+   width: 30px;
+   height: 30px;
+ }
+ .pg-1 .buscar-no-portal {
+   margin: 26px 0 20px 0;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #9E9E9E;
+ }
+ .pg-1 .container {
+   position: relative;
+   margin: 0 0 11px 684.5px;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .logo-if-21 {
+   background: url('C:/Users/rafae/tcc/imagens/logo_if_22.png') 50% / cover no-repeat;
+   width: 250px;
+   height: 250px;
+ }
+ .pg-1 .container-1 {
+   margin: 76px 0px 159px 0;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .container-2 {
+   position: absolute;
+   top: 76px;
+   right: 0px;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .pergamum {
+   position: relative;
+   margin-bottom: 3px;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #000000;
+ }
+ .pg-1 .container-3 {
+   position: relative;
+   margin: 3px 7.5px 0 0;
+   display: inline-block;
+   width: 4px;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .container-4 {
+   margin: 0 6.1px 3px 0;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .container-5 {
+   margin: 1px 5.1px 2px 0;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .container-6 {
+   margin: 1px 6.1px 2px 0;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .instagram {
+   margin-right: 9px;
+   display: flex;
+   width: 40px;
+   height: 40px;
+   box-sizing: border-box;
+ }
+ .pg-1 .icon-color-1 {
+   width: 30px;
+   height: 30px;
+ }
+ .pg-1 .rectangle-11 {
+   border-radius: 10px;
+   background: #878585;
+   position: absolute;
+   left: 243px;
+   top: 531px;
+   width: 198px;
+   height: 33px;
+ }
+ .pg-1 .polygon-1 {
+   border-radius: 5px;
+   transform: rotate(89.877deg);
+   position: absolute;
+   left: 418px;
+   top: 275px;
+   width: 45px;
+   height: 45px;
+ }
+ .pg-1 .sistemas-institucionais {
+   position: absolute;
+   left: 258px;
+   top: 540px;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: white;
+ }
+ .pg-1 .processo-seletivo-para-ingresso-em-cursos-tcnicos-no-segundo-semestre {
+   margin-bottom: 14px;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 35px;
+   color: #000000;
+ }
+ .pg-1 .suap {
+   position: absolute;
+   left: 485px;
+   top: 540px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .email {
+   position: absolute;
+   left: 559px;
+   top: 540px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .moodle {
+   position: absolute;
+   left: 685px;
+   top: 540px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .pergamum-1 {
+   position: absolute;
+   top: 540px;
+   right: 653.4px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .helios {
+   position: absolute;
+   top: 540px;
+   left: 865px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .webmail {
+   position: absolute;
+   top: 540px;
+   left: 955px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .glpi {
+   position: absolute;
+   top: 290px;
+   right: 1045px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .glpi-2 {
+   margin-right: 14.9px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .glpi-3 {
+   margin-right: 16.1px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-9 {
+   margin-right: 16.8px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-10 {
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-11 {
+   margin-right: 11.9px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-12 {
+   margin-right: 14.5px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-13 {
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-14 {
+   margin-right: 5.1px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-15 {
+   margin-right: 7.1px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-16 {
+   margin-right: 9.3px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-17 {
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .image-1 {
+   border-radius: 13px;
+   background: url('C:/Users/rafae/tcc/imagens/image_1.png') 50% / cover no-repeat;
+   position: absolute;
+   top: 369px;
+   right: 268px;
+   width: 751px;
+   height: 232px;
+ }
+ .pg-1 .rectangle-12 {
+   background: #D9D9D9;
+   position: absolute;
+   top: 293px;
+   right: 258px;
+   width: 127px;
+   height: 11px;
+ }
+ .pg-1 .container {
+   border: 1px solid #008000;
+   background: linear-gradient(rgba(0, 128, 0, 0.6), rgba(0, 128, 0, 0.6)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+   right: 1px;
+   position: absolute;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 21px 0 11px 0;
+   width: 1519px;
+   box-sizing: border-box;
+ }
+ .pg-1 .espaço {
+   position: absolute;
+   top: 289px;
+   right: 222.5px;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .youtube-logo {
+   background: url('C:/Users/rafae/tcc/imagens/youtube_logo.png') 50% / cover no-repeat;
+   width: 40px;
+   height: 30px;
+ }
+ .pg-1 .container-1 {
+   position: relative;
+   margin-right: 37.2px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 1041.8px;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-2 {
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 566.9px;
+   height: fit-content;
+   box-sizing: border-box;
+ }
+ .pg-1 .line-13 {
+   background: #9E9E9E;
+   margin: 0 0 7px 1px;
+   width: 200px;
+   height: 0px;
+ }
+ .pg-1 .cursos1 {
+   margin: 0 1px 6px 1px;
+   display: flex;
+   align-self: flex-start;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-20 {
+   margin: 0 1.8px 6px 0;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .line-14 {
+   background: #9E9E9E;
+   margin: 0 0 5px 1px;
+   width: 200px;
+   height: 0px;
+ }
+ .pg-1 .premios-edestaques {
+   margin-right: 3.2px;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 20px;
+   color: #1254B7;
+ }
+ .pg-1 .line-12 {
+   background: #9E9E9E;
+   margin: 0 853px 8px 0;
+   width: 200px;
+   height: 0px;
+ }
+ .pg-1 .container-5 {
+   margin: 0 0 41px 27.5px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 164.5px;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-21 {
+   position: absolute;
+   left: 50%;
+   bottom: 0px;
+   translate: -50% 0;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-22 {
+   position: absolute;
+   left: 50%;
+   bottom: 0px;
+   translate: -50% 0;
+   display: flex;
+   box-sizing: border-box;
+ }
+ .pg-1 .espa-ode-acolhimento-angela-davis {
+   border-radius: 5px;
+   border: 1px dashed #9747FF;
+   margin: 0 604px 884px 0;
+   width: 343px;
+   height: 154px;
+ }
+ .pg-1 .container-8 {
+   margin-top: 9px;
+   display: flex;
+   flex-direction: row;
+   width: 120px;
+   height: fit-content;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-9 {
+   position: relative;
+   margin-right: 556.1px;
+   display: flex;
+   width: 566.9px;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-10 {
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 1519px;
+   height: fit-content;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-11 {
+   margin-right: 0px;
+   display: flex;
+   flex-direction: row;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-13 {
+   position: absolute;
+   top: 281px;
+   right: 212px;
+   width: 874px;
+   height: 33px;
+ }
+ .pg-1 .container-14 {
+   margin-right: 67px;
+   display: flex;
+   flex-direction: column;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-15 {
+   position: relative;
+   margin: 0 46px 5px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 1033px;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-16 {
+   display: flex;
+   flex-direction: column;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-18 {
+   margin-bottom: 3px;
+   display: flex;
+   flex-direction: row;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-19 {
+   background: #3B6D3A;
+   position: relative;
+   right: 6px;
+   bottom: 660px;
+   display: flex;
+   flex-direction: row;
+   padding: 11px 0 9px 0;
+   width: 1514px;
+   box-sizing: border-box;
+ }
+ .pg-1 .suap-23 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .email-aluno {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .moodle {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .pergamum-1 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .helios {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .webmail {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .glpi {
+   position: relative;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .ir-para-ocontedo-1 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 10px;
+   color: #FFFFFF;
+ }
+ .pg-1 .ir-para-omenu-2 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 10px;
+   color: #FFFFFF;
+ }
+ .pg-1 .ir-para-abusca-3 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 10px;
+   color: #FFFFFF;
+ }
+ .pg-1 .ir-para-orodap-4 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 10px;
+   color: #FFFFFF;
+ }
+ .pg-1 .acessibilidade {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .alto-contraste {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .mapa-do-site {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 12px;
+   color: #FFFFFF;
+ }
+ .pg-1 .contato {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .ouvidoria {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .localizao {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .acesso-informao {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 15px;
+   color: #FFFFFF;
+ }
+ .pg-1 .espaço1 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .cursos {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 20px;
+   color: #1254B7;
+ }
+ .pg-1 .painel-covid-19 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 20px;
+   color: #1254B7;
+ }
+ .pg-1 .glpi-2 {
+   position: relative;
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .glpi-3 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 13px;
+   color: #2E2B2B;
+ }
+ .pg-1 .container-20 {
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 1079px;
+   box-sizing: border-box;
+ }
+ .pg-1 .container-21 {
+   margin-right: 81.4px;
+   display: flex;
+   flex-direction: row;
+   width: fit-content;
+   box-sizing: border-box;
+ }
